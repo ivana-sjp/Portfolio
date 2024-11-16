@@ -1,19 +1,19 @@
-# Mi Portafolio ✨
+# My Portfolio ✨
 
-¡Hola! Soy Ivana Jiménez, estoy cursando mi primer semestre de Ingeniería en Computación en el Centro Universitario de los Altos de la Universidad de Guadalajara, aquí comienza mi trayecto como programadora.
+Hello! I am Ivana Jiménez, I'm currently studying my first semester of Computer Engineering at the Centro Universitario de los Altos of the University of Guadalajara, here's where my journey as a programmer begins.
 
-## ¿Qué he aprendido? 📚
+## What have I learned? 📚
 
-1. **Lenguaje C**: Estoy apenas descubriendo cómo funciona este lenguaje (lo que mejor hago es comentar el código).
-2. **Diagramas de Flujo**: Planeo antes de programar mediante diagramas de flujo (están mal diseñados).
+1. **C programming language**: I'm just discovering how this language works (what I do best is commenting the code, I can barely print something).
+2. **flowcharts**: I try to plan before programming using flowcharts (they're poorly designed and have no output).
 
-## Objetivos Personales 🎯
-Sé que apenas comienzo y que es normal cometer errores, aún así intento siempre practicar y buscar alternativas para mejorar mis habilidades, me encantaría trabajar de manera remota como desarrolladora de software en un futuro!
+## Personal Goals 🎯
+I know that I'm just starting out and that it's normal to make mistakes, however I always try to practice and look for alternatives to improve my skills. I would love to work remotely as a software developer in the future!
 
-📬 **Contacto**  
-- **Email Personal**: [ivanasjp14@gmail.com](mailto:ivanasjp14@gmail.com)
-- **Email Institucional**: [ivana.jimenez8066@alumnos.udg.mx](mailto:ivana.jimenez8066@alumnos.udg.mx)
+📬 **Contact**  
+- **Personal E-mail**: [ivanasjp14@gmail.com](mailto:ivanasjp14@gmail.com)
+- **Institutional E-mail**: [ivana.jimenez8066@alumnos.udg.mx](mailto:ivana.jimenez8066@alumnos.udg.mx)
 
 ---
 
-¡Gracias por pasarte por mi perfil, espero que colaboremos en un futuro!
+Thank you for stopping by my profile, I hope we collaborate in the future!
